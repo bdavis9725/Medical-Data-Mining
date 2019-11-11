@@ -86,7 +86,7 @@ edge [fontname=helvetica] ;
 37 -> 41 ;
 42 [label=<IHD &le; 0.5<br/>gini = 0.245<br/>samples = 7<br/>value = [1, 6]>, fillcolor="#399de5d4"] ;
 36 -> 42 ;
-43 [label=<Diabetes &le; 0.5<br/>gini = 0.5<br/>samples = 2<br/>value = [1, 1]>, fillcolor="#e5813900"] ;
+43 [label=<IPSI &le; 0.781<br/>gini = 0.5<br/>samples = 2<br/>value = [1, 1]>, fillcolor="#e5813900"] ;
 42 -> 43 ;
 44 [label=<gini = 0.0<br/>samples = 1<br/>value = [1, 0]>, fillcolor="#e58139ff"] ;
 43 -> 44 ;
